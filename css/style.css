@@ -327,6 +327,9 @@ header a {
 }
 
 /*portfolio*/
+.portfolio_main {
+  margin-bottom: 100px;
+}
 .filtrs {
   width: 1200px;
   padding-left: 15px;
