@@ -45,6 +45,9 @@ h6 {
   margin-right: auto;
   align-items: center;
 }
+.header_logo {
+  color: var(--color_nav);
+}
 .header_nav {
   padding: 0;
   margin-left: 95px;
@@ -320,6 +323,7 @@ header a {
   margin: 0;
 }
 .footer_logo {
+  color: #fff;
   padding-top: 65px;
   padding-bottom: 30px;
   margin: 0;
